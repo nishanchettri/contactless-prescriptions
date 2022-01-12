@@ -1,4 +1,5 @@
 <?php
+//use php 5.4 version else doesnot work
  define('DB_SERVER', 'localhost');
  define('DB_USERNAME', 'your db username');
  define('DB_PASSWORD', 'db password');
